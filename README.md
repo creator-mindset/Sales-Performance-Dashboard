@@ -13,3 +13,6 @@ Data cleaning and preprocessing
 Exploratory Data Analysis (EDA)
 Data visualization
 Business insight generation
+
+Tools Used:
+MS Excel
