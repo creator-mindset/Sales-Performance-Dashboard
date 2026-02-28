@@ -1,3 +1,4 @@
+#Sales Analysis Dashboard#
 This project is a data analysis and visualization dashboard built using Python. It analyzes a year-long sales transaction dataset containing 365+ records, including details such as salesman, region, product, quantity, price, and total amount.
 
 The dashboard provides insights into:
